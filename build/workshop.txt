@@ -1,0 +1,6 @@
+version=1
+title=Zomboid Analytics
+description=Additional event logging tool
+description=
+tags=Build 41;Server;Multiplayer
+visibility=public
